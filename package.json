@@ -1,0 +1,34 @@
+{
+  "name": "string-to-type",
+  "version": "0.1.0",
+  "description": "Given a string, detect boolean or numeric value and convert.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bloodyKnuckles/string-to-type.git"
+  },
+  "keywords": [
+    "detect",
+    "string",
+    "value",
+    "type",
+    "convert",
+    "boolean",
+    "numeric"
+  ],
+  "author": "Jay Scott ANDERSON",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bloodyKnuckles/string-to-type/issues"
+  },
+  "homepage": "https://github.com/bloodyKnuckles/string-to-type#readme",
+  "devDependencies": {
+    "tape": "^4.4.0"
+  }
+}
