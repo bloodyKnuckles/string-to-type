@@ -8,11 +8,14 @@ value, then converts the variable and returns it.
 ```
 var var typeDetectConvert = require('string-to-type')
 
-console.log(typeof typeDetectConvert("true"))
-// boolean
+console.log(typeDetectConvert("1234"))
+// 1234
 
 console.log(typeof typeDetectConvert("1234"))
 // number
+
+console.log(typeof typeDetectConvert("true"))
+// boolean
 ```
 
 # license
