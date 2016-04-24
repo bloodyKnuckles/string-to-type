@@ -6,7 +6,7 @@ value, then converts the variable and returns it.
 # example
 
 ```
-var var typeDetectConvert = require('string-to-type')
+var typeDetectConvert = require('string-to-type')
 
 console.log(typeDetectConvert("1234"))
 // 1234
