@@ -1,6 +1,6 @@
 {
   "name": "string-to-type",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Given a string, detect boolean or numeric value and convert.",
   "main": "index.js",
   "directories": {
